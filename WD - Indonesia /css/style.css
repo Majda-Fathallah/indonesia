@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Barlow+Condensed|Economica:400,700|Exo+2|Kalam|Odibee+Sans|Roboto+Condensed|Teko|Yanone+Kaffeesatz&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+	font-family: 'Teko', sans-serif;
+	font-size: 10px;
+	margin: 0px;
+}
+
+h1,h2,h3 {
+
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-weight: bold;
+}
+
+a{
+
+	text-decoration: none;
+}
